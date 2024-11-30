@@ -1,4 +1,5 @@
 #Ini Tugas Git
+#Ini Perubahan
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
